@@ -1,5 +1,5 @@
 # Michael Laurence Smith
-![Image](MichaelLSmith.github.io/MichaelBeard.png)
+![Image](https://github.com/MichaelLSmith/MichaelLSmith.github.io/blob/master/MichaelBeard.png)
 ## Web Developer
 
 ### Live Github projects
