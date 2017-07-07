@@ -1,7 +1,5 @@
 # Michael Laurence Smith
-<div style="display:flex; justify-content: center">
   ![Image](https://github.com/MichaelLSmith/MichaelLSmith.github.io/blob/master/MichaelBeard.png)
- </div>
 ## Web Developer
 
 
