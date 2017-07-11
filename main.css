@@ -1,5 +1,39 @@
 .container {
-  max-width: 500px;
-  margin: auto;
+  /*max-width: 500px;
+  margin: auto;*/
 }
-p { max-width: 90% }
+.nav-font {
+  font-family: monospace;
+}
+.name-font {
+  font-size: 1.1em;
+}
+.link-font {
+  font-size: 1.2em;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+.margin-bt {
+  margin-bottom: 3.5em;
+}
+.margin-tp {
+  margin-top: 3.5em;
+}
+.subheading {
+  margin-top: -.5em;
+  text-align: center;
+}
+.bio-img {
+  border-radius: 3%;
+}
+.body-text {
+  font-size: 1.1em;
+}
+.bottom-nav {
+  width: 100%;
+}
+.flex-align {
+  justify-content: space-between;
+}
